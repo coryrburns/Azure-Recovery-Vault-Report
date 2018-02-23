@@ -1,5 +1,5 @@
 # Azure Vault Status Report
-## by Cory Burns
+### by Cory Burns
 
 Powershell scripts designed to be run in Powershell or as a Azure Automation Runbook that will 
 grab the backup status for last night's Recovery Vault jobs
